@@ -8,7 +8,7 @@
                     <br>
                 </div>
                 <div style="font-size: 9px;" class="post-category">
-                          <a style= "cursor:default ">{{ post.tag }} </a>
+                          <a style= "cursor:default ">{{ post.categories }} </a>
                 </div>
                  <div style="font-size: 9px;" class="post-message">
                     <a href="{{ post.url }}#ds-thread"><span class="font-icon-comments"></span> <span class="ds-thread-count" data-thread-key="{{ post.id }}" data-count-type="comments"></span></a>
@@ -18,7 +18,7 @@
                 <div class="info-block">
                     <h3 class="spec">  <a target="_blank" href="{{ post.url }}" > {{ post.title }}</a></h3>
                     <p id="mobile-post-info"> <span>{{ post.month }}&nbsp;</span><span>{{ post.day }}&nbsp;</span><span >{{ post.year }}</span>&nbsp;&nbsp;<a>{{ post.author }}</a>&nbsp;&nbsp;&nbsp;
-                          <a >{{ post.tag }} </a>
+                          <a >{{ post.categories }} </a>
                         &nbsp;&nbsp;&nbsp;<a href="#"><span class="font-icon-comments"></span><span class="ds-thread-count" data-thread-key="{{ post.id }}" data-count-type="comments"></span></a></p>
                     <div class="info-text">
                         <p>
