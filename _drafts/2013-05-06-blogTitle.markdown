@@ -1,8 +1,8 @@
 ---
 layout: blogs_item
 title: "标题"
-author: 作者
-categories: 分类
+author: 小傅
+categories: 自言自语
 day: 日
 month: 月
 year: 年
