@@ -3,7 +3,7 @@ layout: blogs_item
 title: "你好,新年"
 author: 小傅
 categories: 自言自语
-day:  O5
+day:05
 month: JAN
 year: 2014
 ---
