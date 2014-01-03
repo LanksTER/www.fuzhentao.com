@@ -3,7 +3,7 @@ layout: blogs_item
 title: 2011年09月09日
 author: 小傅
 categories: 自言自语
-day: 09
+day: 9
 month: SEP
 year: 2011
 ---
