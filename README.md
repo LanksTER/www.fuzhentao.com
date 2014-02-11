@@ -26,7 +26,7 @@ jekyll 静态博客模板
 
     paginate_path: "page:num"
 
-CNAME文件
+CNAME文件 ！
 
 设置二级域名或顶级域名
 
