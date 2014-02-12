@@ -32,6 +32,8 @@ year: 2014
 
 ## **一些照片**
 
+<div class="row">
+<div class="span12">
 ![enter image description here][1]
 
 ![enter image description here][2]
@@ -47,6 +49,8 @@ year: 2014
 ![enter image description here][7]
 
 ![enter image description here][8]
+</div>
+</div>
 
 
   [1]: http://ww2.sinaimg.cn/mw690/4a059463gw1edgbfiwr05g21kw1484qq.gif
