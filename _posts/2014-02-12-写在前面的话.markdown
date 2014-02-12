@@ -1,0 +1,59 @@
+---
+layout: blogs_item
+title: "写在前面的话"
+author: 小傅
+categories: 自言自语
+day: 12
+month: FEB
+year: 2014
+---
+
+
+## **前言**
+
+高晓松在《青春无悔》里说到：成长是憧憬和怀念的天平，当它已经倾斜的颓然倒下时，那些失去了目光的夜晚该用怎样的声音去抚慰那些一去不回的时光。
+
+
+## **关于这些文字**
+
+大概是高一的时候，我拿着笔记本，一个一个的找原来的同学，让他们写下一些过去的事。所以大多数二中的同学对这事一无所知，当然你们现在也可以把回想起来的事告诉我，如果你觉得这件事情对你来说是有意义的。
+
+文章由多个人所写，所以尺度不一，露骨程度也不一，用稚嫩的笔触记录着。如果里面有任何人因为里面的内容感到不适，请联系我，我会将其部分删除。目前是只字未过的状态，因为我觉得最原始的才是最真实的，那些难为情的，愤慨的，也请你们把这些当成藏进时光的漂流瓶，现在我们可以一起来慢慢说...
+
+## **关于微信群**
+
+网站下面的二维码只要用微信里面的扫一扫功能就能加入，只是一个提供以后聚会，聊天的场所，我知道有些人喜欢清静，那你可以在加入群以后把消息推送关闭，这样也许在你闲下来的时候可以点开群看看大家都在吹什么牛。
+
+*关闭推送方式：进入微信群--右上角双人头按钮进入--新消息通知--关闭即可*
+
+## **让更多的人看到**
+
+如果你觉得我做的这件事情是有意义的，请帮忙转发让更多的人看到，每一篇文章的详细页面会有评论功能，希望看到与你有共鸣的时候留下点什么。
+
+## **一些照片**
+
+![enter image description here][1]
+
+![enter image description here][2]
+
+![enter image description here][3]
+
+![enter image description here][4]
+
+![enter image description here][5]
+
+![enter image description here][6]
+
+![enter image description here][7]
+
+![enter image description here][8]
+
+
+  [1]: http://ww2.sinaimg.cn/mw690/4a059463gw1edgbfiwr05g21kw1484qq.gif
+  [2]: http://ww2.sinaimg.cn/mw690/4a059463gw1edgbcbp49nj20q80ghgo6.jpg
+  [3]: http://ww4.sinaimg.cn/mw690/4a059463gw1edgbc5q0ysj20q00h3gnk.jpg
+  [4]: http://ww3.sinaimg.cn/mw690/4a059463gw1edgbbordffj20q00h7772.jpg
+  [5]: http://ww2.sinaimg.cn/mw690/4a059463jw1dpgufu92l7j.jpg
+  [6]: http://ww4.sinaimg.cn/mw690/4a059463jw1dpgtr28hgej.jpg
+  [7]: http://ww1.sinaimg.cn/mw690/4a059463gw1edgbc0ngkej20c50hv3zi.jpg
+  [8]: http://ww2.sinaimg.cn/mw690/4a059463gw1edgbcdnhlhj20c80hwgmf.jpg
