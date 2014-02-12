@@ -29,37 +29,3 @@ year: 2014
 ## **让更多的人看到**
 
 如果你觉得我做的这件事情是有意义的，请帮忙转发让更多的人看到，每一篇文章的详细页面会有评论功能，希望看到与你有共鸣的时候留下点什么。
-
-## **一些照片**
-<div class="row">
-<div class="span12">
-
-![enter image description here][1]
-
-![enter image description here][2]
-
-![enter image description here][3]
-
-![enter image description here][4]
-
-![enter image description here][5]
-
-![enter image description here][6]
-
-![enter image description here][7]
-
-![enter image description here][8]
-
-
-  [1]: http://ww2.sinaimg.cn/mw690/4a059463gw1edgbfiwr05g21kw1484qq.gif
-  [2]: http://ww2.sinaimg.cn/mw690/4a059463gw1edgbcbp49nj20q80ghgo6.jpg
-  [3]: http://ww4.sinaimg.cn/mw690/4a059463gw1edgbc5q0ysj20q00h3gnk.jpg
-  [4]: http://ww3.sinaimg.cn/mw690/4a059463gw1edgbbordffj20q00h7772.jpg
-  [5]: http://ww2.sinaimg.cn/mw690/4a059463jw1dpgufu92l7j.jpg
-  [6]: http://ww4.sinaimg.cn/mw690/4a059463jw1dpgtr28hgej.jpg
-  [7]: http://ww1.sinaimg.cn/mw690/4a059463gw1edgbc0ngkej20c50hv3zi.jpg
-  [8]: http://ww2.sinaimg.cn/mw690/4a059463gw1edgbcdnhlhj20c80hwgmf.jpg
-
-
-</div>
-</div>
