@@ -18,6 +18,14 @@ define({
   init: function(pageData) {
     var $view = this;
     
+        $view.on('click', '.btn-demo-panel', function(event) {
+      event.preventDefault()
+      var $btn = $(this),
+          panelid = $btn.attr('data-panel')
+      
+      $doc.trigger('spa:openpanel', [panelid])
+    })
+    
           $view.on('click', '#gotoback', function(event) {
           event.preventDefault()
           // var $btn = $(this),
