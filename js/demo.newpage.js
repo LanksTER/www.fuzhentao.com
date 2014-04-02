@@ -4,7 +4,7 @@ define({
     <div class="navbar-header">\
       <a class="navbar-brand" href="#demo/newpage">新页面</a>\
     </div>\
-    <a href="#" id="gotoback" class="btn btn-default navbar-btn btn-link pull-left"><span class="glyphicon glyphicon-chevron-left"></span></a>\
+    <a href="#home" id="gotoback" class="btn btn-default navbar-btn btn-link pull-left"><span class="glyphicon glyphicon-chevron-left"></span></a>\
   </nav>\
   <div class="page-container-navbar">\
     <div class="container">\
@@ -18,15 +18,15 @@ define({
   init: function(pageData) {
     var $view = this;
     
-          $view.on('click', '#gotoback', function(event) {
-          event.preventDefault()
-          // var $btn = $(this),
-          // // animate = $btn.attr('data-animate'),
-          //     hash = getHash($btn.attr('href'))
+      //     $view.on('click', '#gotoback', function(event) {
+      //     event.preventDefault()
+      //     // var $btn = $(this),
+      //     // // animate = $btn.attr('data-animate'),
+      //     //     hash = getHash($btn.attr('href'))
 
-          $doc.trigger('spa:navigate', {hash: "home", pushData: {animate: "pushInLeft"}})
+      //     $doc.trigger('spa:navigate', {hash: "home", pushData: {animate: "pushInLeft"}})
 
-      })
+      // })
     
     $('.page-container-navbar', $view).trigger('spa:scroll')
   }
