@@ -18,15 +18,15 @@ define({
   init: function(pageData) {
     var $view = this;
     
-      //     $view.on('click', '#gotoback', function(event) {
-      //     event.preventDefault()
-      //     // var $btn = $(this),
-      //     // // animate = $btn.attr('data-animate'),
-      //     //     hash = getHash($btn.attr('href'))
+          $view.on('click', '#gotoback', function(event) {
+          event.preventDefault()
+          // var $btn = $(this),
+          // // animate = $btn.attr('data-animate'),
+          //     hash = getHash($btn.attr('href'))
 
-      //     $doc.trigger('spa:navigate', {hash: "home", pushData: {animate: "pushInLeft"}})
+          $doc.trigger('spa:navigate', {hash: "home", pushData: {animate: "pushInRight"}})
 
-      // })
+      })
     
     $('.page-container-navbar', $view).trigger('spa:scroll')
   }
