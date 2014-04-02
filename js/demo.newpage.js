@@ -10,7 +10,8 @@ define({
     <div class="container">\
       <div class="page-header"><h1>我是新页面视图</h1></div>\
       <p>我有自己的hash路由请求，可以收藏和分享，你可以查看浏览器的地址变化，或点击浏览器的刷新按钮试试；</p>\
-      <a href="#" class="btn btn-default">返回</a>\
+      <a href="#home" class="btn btn-default">返回</a>\
+      <a href="#demo/newpage" class="btn btn-default">demo/newpage</a>\
     </div>\
   </div>\
   ',
