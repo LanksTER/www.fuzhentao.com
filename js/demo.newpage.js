@@ -24,7 +24,7 @@ define({
           // // animate = $btn.attr('data-animate'),
           //     hash = getHash($btn.attr('href'))
 
-          $doc.trigger('spa:navigate', {hash: "home", pushData: {animate: "pushInRight"}})
+          $doc.trigger('spa:navigate', {hash: "home", pushData: {animate: "zoomOut"}})
 
       })
     
