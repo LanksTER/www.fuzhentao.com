@@ -24,7 +24,7 @@ define({
       var $btn = $(this),
           panelid = $btn.attr('data-panel')
       
-      $doc.trigger('spa:openpanel', [panelid])
+      $doc.trigger('spa:openpanel', [panelid,{animate: "pushPartInRight"}])
     })
     
           $view.on('click', '#gotoback', function(event) {
@@ -33,7 +33,7 @@ define({
           // // animate = $btn.attr('data-animate'),
           //     hash = getHash($btn.attr('href'))
 
-          $doc.trigger('spa:navigate', {hash: "home", pushData: {}})
+          $doc.trigger('spa:navigate', {hash: "home", pushData: {animate: "pushInLeft"}})
 
       })
     
