@@ -1,9 +1,9 @@
 ---
 layout: blogs_item
-title: sry abt my leavin
+title: "sry abt my leavin"
 author: 小傅
 categories: 自言自语
-day: 06
+day: "06"
 month: APR
 year: 2014
 ---
